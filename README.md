@@ -56,8 +56,6 @@ By working through this repo, you'll be able to -
 - Understand how Prometheus fits into cloud-native infrastructure 
   
 ---
-## 🙌 Credits
-- Prometheus
-- Grafana Labs
-- CNCF Observability Landscape
-- KodeKloud Prometheus Bootcamp
+
+## References
+- [KodeKloud-Prometheus-Certificate](https://learn.kodekloud.com/user/courses/prometheus-certified-associate-pca)
