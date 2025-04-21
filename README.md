@@ -59,3 +59,4 @@ By working through this repo, you'll be able to -
 
 ## References
 - [KodeKloud-Prometheus-Certificate](https://learn.kodekloud.com/user/courses/prometheus-certified-associate-pca)
+- [Prometheus Certified Associate (PCA) Exam](https://github.com/cncf/curriculum/blob/master/PCA_Curriculum.pdf)
