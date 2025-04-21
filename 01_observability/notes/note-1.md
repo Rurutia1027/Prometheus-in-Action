@@ -57,3 +57,24 @@ Logs of processes are likely to be interwoven with other concurrent processes sp
 ### **Metrics** 
 
 - Metrics provide information about the sate of a system using numerical values. 
+  - CPU Load 
+  - Number of open files 
+  - HTTP response times
+  - Number of errors 
+
+THe data collected can be aggregated over time and graphed using visualization tools to identify **trends** over time. 
+
+Metrics in the scope of Prometheus contain 4 pieces of information: 
+
+![alt text](pics/metrics.png)
+
+- Metric name
+- Value - most recent or current value of the metrics
+- Timestamp of the metric 
+- Dimensions - additional information about the specific about the metric
+
+
+### Prometheus 
+![alt text](pics/prometheus.png)
+
+**Prometheus** is a monitoring solution that is responsible for collecting and aggregating **metrics**. Which means the topic we talk about on Observability is in the scope of Cloud Native and it contains three piliars - **Logging**, **Tracing**, and **Metrics**, and **Prometheus** is only in the scope of **Metrics**. 
