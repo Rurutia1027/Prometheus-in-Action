@@ -3,7 +3,12 @@
 
 Whether you're monitoring containers, services, or infrastructure, this project helps you understand and apply the best practices in metrics collection, querying, alerting, and visualization - all while staying aligned with CNCF observability principles. 
 
---- 
+---
+
+## Role of Prometheus in Cloud Native's Observability 
+- [Prometheus & Cloud Native Observability 101](https://medium.com/devops-dev/prometheus-cloud-native-observability-101-3b630e34cd86)
+
+---
 
 ## What This Repo Covers 
 This repo guides you through the essential layers of Prometheus-powered observability: 
