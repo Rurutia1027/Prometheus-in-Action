@@ -6,6 +6,10 @@ Whether you're monitoring containers, services, or infrastructure, this project 
 ---
 
 ## Role of Prometheus in Cloud Native's Observability 
+
+![image](https://github.com/user-attachments/assets/42af4a34-8ebd-4698-bcfd-f8c10f5b6a93)
+
+
 - [Prometheus & Cloud Native Observability 101](https://medium.com/devops-dev/prometheus-cloud-native-observability-101-3b630e34cd86)
 
 ---
